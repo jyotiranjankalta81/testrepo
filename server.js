@@ -4,7 +4,7 @@ const port = 3000;
 
 // Define a simple endpoint
 app.get('/', (req, res) => {
-  res.send('Hello, this is your demonodejs app!');
+  res.send('Hello, this is your demonodejs app for testing!');
 });
 
 // Define another endpoint
